@@ -15,4 +15,4 @@ Stone_Red
 
 ## Reqirements
 
-Minimum reqired DesktopMagic version 0.0.2.2
+Minimum reqired DesktopMagic version: 0.0.2.2
