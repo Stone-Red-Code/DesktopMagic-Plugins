@@ -6,7 +6,7 @@ This plugin allows you to display gifs on the desktop.
 
 ## Instruction
 
-1. Copy the `Gif Plugin.dll` file into the plugins folder.
+1. Put the `Gif Plugin.dll` file into the plugins folder.
 1. Enter a path to a gif file in the settings menu.
 
 ## Creator(s)
