@@ -1,6 +1,6 @@
 # DesktopMagic-Plugins
 
-This repository contains a list of downloadable plugins for the DesktopMagic application.
+This repository contains a list of downloadable plugins for the [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) application.
 
 
 ## How to add a plugin
