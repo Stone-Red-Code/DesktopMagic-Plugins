@@ -29,6 +29,7 @@ This repository contains a list of downloadable plugins for the [DesktopMagic](h
 
     <Plugin Reqirements>
     ```
+1. (Optional) Add the source code into the directory.
 1. Create a pull request
 
 Example: https://github.com/Stone-Red-Code/DesktopMagic-Plugins/tree/main/Plugins/Gif%20Plugin
