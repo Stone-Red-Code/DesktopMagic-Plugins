@@ -7,7 +7,7 @@ This plugin allows you to display random quotes on the desktop.
 ## Instruction
 
 1. Put the `Quotes Plugin.dll` file into the plugins folder.
-1. Enter a path to a gif file in the settings menu.
+1. Set the interval the quote should update in the settings menu.
 
 ## Creator(s)
 
