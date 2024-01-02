@@ -1,5 +1,10 @@
 # DesktopMagic-Plugins
 
+> Plugins for the DesktopMagic application.
+
+> [!CAUTION]
+> This repository is deprecated. All plugins for [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) are now on [mod.io](https://mod.io/g/DesktopMagic)
+
 This repository contains a list of downloadable plugins for the [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) application.
 
 
